@@ -39,7 +39,6 @@ if __name__=='__main__':
     save_path = './test/outputs'
     FORMAT = ('.jpg', '.jpeg', '.png', '.bmp')
 
-
     model_name = 'efficientnet-b0'
     weight = 'weights/fight.pt'
 
